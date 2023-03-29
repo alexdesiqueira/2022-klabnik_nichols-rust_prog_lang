@@ -1,4 +1,4 @@
-# 2022-klabnik_nichols-rust_prog_lang
+# (2022) Klabnik & Nichols et al — The Rust Programming Language
 
 ## Preparing my PC
 
