@@ -1,0 +1,1 @@
+/var/home/alex/projects/learning_bench/2022-klabnik_nichols-rust_prog_lang/chap_01/hello_cargo/target/debug/hello_cargo: /var/home/alex/projects/learning_bench/2022-klabnik_nichols-rust_prog_lang/chap_01/hello_cargo/src/main.rs
